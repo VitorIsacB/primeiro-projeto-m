@@ -1,0 +1,27 @@
+.cabecalho{
+    background-color:blue;
+
+
+}
+h1{
+    text-align: center;
+}
+.link {
+    color: #318021;
+}
+
+ul .link {
+    color: #000000;
+    /* border: 2px solid #e8240e; */
+    display: inline;
+    margin: 0 3%;
+
+    /* Nesting links */
+    a{
+        text-decoration: none;
+        color: #000000;
+    }
+
+}
+
+
